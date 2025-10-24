@@ -335,7 +335,7 @@ The solution successfully:
 
 ##  License
 
-This project is developed for the Amazon ML Challenge 2025. The solution uses MIT/Apache 2.0 licensed models as per challenge requirements.
+This project is developed for the Amazon ML Challenge 2025. The solution uses Apache 2.0 licensed models as per challenge requirements.
 
 ---
 
