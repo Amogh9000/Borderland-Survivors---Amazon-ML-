@@ -302,11 +302,33 @@ The solution successfully:
 
 ## 👥 Collaborators
 
-**Team Members:**
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/amoggh">
+        <img src="https://github.com/amoggh.png" width="100px;" alt="Amoggh Bharadwaj"/>
+        <br />
+        <sub><b>Amoggh Bharadwaj</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Saip2231">
+        <img src="https://github.com/Saip2231.png" width="100px;" alt="Sai Prashanth"/>
+        <br />
+        <sub><b>Sai Prashanth</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Shaq16">
+        <img src="https://github.com/Shaq16.png" width="100px;" alt="Shakthi Jaswanth"/>
+        <br />
+        <sub><b>Shakthi Jaswanth</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-- Amoggh Bharadwaj
-- Sai Prashanth
-- Shakthi Jaswanth
+**Team: Borderland Survivors**
 
 
 ---
