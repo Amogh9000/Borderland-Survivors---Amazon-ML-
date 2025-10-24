@@ -300,7 +300,7 @@ The solution successfully:
 
 ---
 
-## 👥 Collaborators
+##  Collaborators
 
 <table>
   <tr>
@@ -333,13 +333,13 @@ The solution successfully:
 
 ---
 
-## 📄 License
+##  License
 
 This project is developed for the Amazon ML Challenge 2025. The solution uses MIT/Apache 2.0 licensed models as per challenge requirements.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Amazon ML Challenge 2025 organizers for providing the dataset and problem statement
 - The open-source community for the excellent ML libraries and tools
