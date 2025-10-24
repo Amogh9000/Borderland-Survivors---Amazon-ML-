@@ -1,0 +1,164 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+.idea_modules/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# Large Data Files
+*.csv
+!sample_test.csv
+!sample_test_out.csv
+
+# Embeddings and Model Files
+*.npy
+*.npz
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.onnx
+
+# Model Output Directory (keep structure, ignore models)
+models_out/*.txt
+models_out/*.csv
+models_out/*.npy
+
+# Text Processing Directory (keep code, ignore data)
+Text processing/*.csv
+Text processing/*.npy
+Text processing/submission.csv
+
+# Output Files
+output.txt
+results.txt
+quick_results.txt
+simple_results.txt
+training_output.txt
+submission.csv
+test_out.csv
+
+# Logs
+*.log
+logs/
+*.out
+
+# Temporary Files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Images (if downloaded)
+images/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.webp
+*.svg
+*.tiff
+*.ico
+*.heic
+*.heif
+
+# Compressed Files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Coverage Reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Documentation Build
+docs/_build/
+site/
+
+# Backup Files
+*.bak
+*.backup
